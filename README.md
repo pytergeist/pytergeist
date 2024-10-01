@@ -32,6 +32,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/pytergeist/pytergeist/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/pytergeist/pytergeist/output/github-contribution-grid-snake.svg)
  
 </div>
