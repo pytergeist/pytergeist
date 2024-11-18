@@ -2,7 +2,7 @@
 
 Tech and AI enthusiast, working as a machine learning engineer with a PhD in computer vision and geometric deep learning.
 
-
+![Haunted Computer](https://media.tenor.com/images/6f404d4c79a5d3b8b7a9be8ccf8c5234/tenor.gif)
 
 🚀 Skills & Tools
 Programming Languages
